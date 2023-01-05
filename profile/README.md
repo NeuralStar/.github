@@ -1,4 +1,6 @@
-# Contrôle de mouvements via EEG headset
+<h1 align="center">
+  Contrôle de mouvements via EEG headset
+</h1>
 
 ## 🎯 Objectifs du projet :
 
