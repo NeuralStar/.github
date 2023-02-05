@@ -30,7 +30,7 @@ L'utilisation de cette technologie permettra aux personnes en situation d'handic
 
 <ul>
   <li><a href="https://github.com/ulookme"> Charles Hajjar </a></li>
-  <li><a href="https://github.com/cdescour"> Descour Clement </a></li>
+  <li><a href="">  </a></li>
   <li><a href="https://github.com/BlankRose"> Collard Rosie </a></li>
 </ul>
 
