@@ -40,3 +40,6 @@ L'utilisation de cette technologie permettra aux personnes en situation d'handic
 - Languages : Python , C et C++ 
 - Base de Donnees : MangoDB et SQLite
 - Equipements : Unicorn suit black 
+
+##result processing 
+![Cover](https://github.com/NeuralStar/Deep_think_Hajj/blob/main/deep_think.png)
