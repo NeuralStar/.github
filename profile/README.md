@@ -41,5 +41,5 @@ L'utilisation de cette technologie permettra aux personnes en situation d'handic
 - Base de Donnees : MangoDB et SQLite
 - Equipements : Unicorn suit black 
 
-##result processing 
+#result
 ![Cover](https://github.com/NeuralStar/Deep_think_Hajj/blob/main/deep_think.png)
