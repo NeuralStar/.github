@@ -30,7 +30,6 @@ L'utilisation de cette technologie permettra aux personnes en situation d'handic
 
 <ul>
   <li><a href="https://github.com/ulookme"> Charles Hajjar </a></li>
-  <li><a href="https://github.com/supermomie"</a>Frahkredine Atalla</li>
   <li><a href="https://github.com/Firestorck"</a>Maelle</li>
   <li><a href="https://github.com/BlankRose"> Collard Rosie </a></li>
 </ul>
